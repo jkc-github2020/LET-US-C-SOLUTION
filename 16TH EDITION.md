@@ -1,6 +1,8 @@
 /*CHAPTER-16/Q.[B]-K*/
-
 /*C PROGRAM TO RECEIVE AN INTEGER NUMBER AS INPUT AND PRINTS OUT THE NUMBER IN WORDS.*/
+
+
+
 #include<stdio.h>
 #define FLAG !(arr2[i]==0 && arr2[i-1]==0)
 void cycle();
